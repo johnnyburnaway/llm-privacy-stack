@@ -138,5 +138,5 @@ Frontier models (latest GPT/Claude releases) often lag behind official launches 
 
 ## Contribute
 
-Suggestions and corrections are welcome. Open a PR, create an Issue or email me polite.artist38@mailx.net at mailx.net. 
+Suggestions and corrections are welcome. Open a PR, create an Issue or email me polite.artist38 at mailx.net. 
    
