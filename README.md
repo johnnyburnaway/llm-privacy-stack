@@ -3,7 +3,11 @@
 
  Last updated: 31 Dec 2025
 
-This is a human-curated collection aimed at privacy-conscious users and builders. Leverage LLMs with no or minimized tracking, profiling and surveillance risks. Solutions listed are not constrained to fully local setups. Enterprise and experimental tools might feature, but are not prioritized. 
+This is a human-curated collection aimed at privacy-conscious users and builders. 
+
+Leverage LLMs with no or minimized tracking, profiling and surveillance risks.
+
+Solutions listed are not constrained to fully local setups. Enterprise and experimental tools might feature, but are not prioritized. 
 
 
 ## Private LLM use strategies
