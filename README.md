@@ -108,11 +108,11 @@ Frontier models (latest GPT/Claude releases) often lag behind official launches 
 
 | Service | Notes| Price | Payment methods|
 | :--- | :--- | :--- | :--- |
-| **[Kagi Assistant](https://help.kagi.com/kagi/ai/assistant.html)** | Frontier model proxy, File uploads, Kagi search tie-in | $25 /mo for flagship models (bundle)| CC, Paypal, Bitcoin + [Privacy Pass](https://privacypass.github.io)|
-| **[Brave Leo](https://brave.com/leo/)** | Open source  models + frontier models (latest not available), In Brave Browser, File uploads|$14.99 /mo, free tier| CC |
-| **[Duck AI](http://duck.ai/)** | Open source + frontier models (latest not available), PII removal | $9.99 /mo in a bundle | CC, Paypal, App store
+| **[Kagi Assistant](https://help.kagi.com/kagi/ai/assistant.html)** | Frontier model proxy <br> File uploads  <br> Kagi search tie-in | $25 /mo (bundle)| CC, Paypal, Bitcoin + [Privacy Pass](https://privacypass.github.io)|
+| **[Brave Leo](https://brave.com/leo/)** | Open source  models + frontier models (latest not available) <br> Brave Browser required <br> File uploads|$14.99 /mo + free tier| CC |
+| **[Duck AI](http://duck.ai/)** | Open source + frontier models (latest not available)  <br>  PII removal | $9.99 /mo in a bundle | CC, Paypal, App store
 | **[Maple.AI](https://trymaple.ai)** | Open source models in TEE| From $20 /mo| CC, Bitcoin|
-| **[Proton Lumo](https://lumo.proton.me/guest)** | Open source Models e.g. Mistral Nemo, OpenHands 32B, Files support | $12.99 /mo, free tier| CC, Paypal, Cash, Apple/Google Pay|
+| **[Proton Lumo](https://lumo.proton.me/guest)** | Open source Models e.g. Mistral Nemo <br> Files support | $12.99 /mo + free tier| CC, Paypal, Cash, Apple/Google Pay|
 
 
 
