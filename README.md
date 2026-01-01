@@ -1,7 +1,7 @@
 # Privacy-preserving LLM tools 
 
 
- Last updated: 31 Dec 2025
+ Last updated: 1 Jan 2026
 
 This is a human-curated collection aimed at privacy-conscious users and builders. 
 
@@ -16,7 +16,7 @@ When interacting with cloud LLM providers, your queries, inputs, and outputs bec
 
 Key mitigation methods:
 1. Use local-only setups by running LLM inference on your hardware
-2. Use privacy proxies that mix your requests with other users when using cloud providers
+2. Use privacy focused LLM routers that mix your requests with other users when using cloud providers
 3. Remove PII (personally identifiable information) from your queries using services with built-in scrubbing tools
 4. Separate identity from usage by using burner emails, VPNs, and anonymous payment methods
 
