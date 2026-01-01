@@ -40,8 +40,8 @@ Tools that help you download and run models locally and/or connect to APIs. Open
 
 | Tool | Notes|
 | :--- | :--- |
-| **[Jan.ai](https://www.jan.ai/)** | Desktop focused. Local inference + API plug-in options.  |
-| **[AnythingLLM](https://anythingllm.com/)** | Desktop/mobile. Document chat.| 
+| **[Jan.ai](https://github.com/janhq/jan)** | Desktop focused. Local inference + API plug-in options.  |
+| **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)**| Desktop/mobile. Document chat.| 
 | **[Msty](https://msty.ai/)** | Closed source. Desktop only. Unique multi-chat UI. Local context building with PII scrubbing.|
 | **[LMstudio](https://lmstudio.ai)** | For running local models. Basic chat functions. |
 | **[OpenWebUI](https://github.com/open-webui/open-webui)** | Desktop/mobile. Speech to text support. Local context building. Web search, web browsing. ImageGen support.|
