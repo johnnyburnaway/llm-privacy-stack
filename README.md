@@ -99,7 +99,7 @@ Using anon-friendly payment options and a VPN to mask your IP is good practice w
 
 These services offer a balance of ease-of-use and privacy protections. No local tools required. Web services can be acceptable recommendations for family, friends, or non-technical users who need immediate access without complex setup. Typically available on desktop and mobile via apps, no API support.
 
-Frontier models (latest GPT/Claude releases) often lag behind official launches on these platforms.
+Frontier models (latest OpenAI/Claude releases) often lag behind official launches on these platforms.
 
 > ⚠️ Note: Listing here is not an endorsement. Counterparty risk remains. You are trusting these providers to stay true to their privacy promises. Avoid using Credit Cards and opt for anon payment methods (Monero, Cash, Privacy Pass) if possible.
 
