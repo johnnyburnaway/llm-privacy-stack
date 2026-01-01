@@ -12,9 +12,15 @@ Solutions listed are not constrained to fully local setups. Enterprise and exper
 
 ## Private LLM use strategies
 
-When interacting with cloud LLM providers, your data, queries, inputs, and outputs become tied to your real identity. Due to this connection, data from your activities can be mined, synthesized, sold, weaponized, subpoenaed and generally used in ways that won't benefit you.   
+When interacting with cloud LLM providers, your queries, inputs, and outputs become tied to your real identity. Due to this connection, data from your activities can be mined, synthesized, sold, weaponized, subpoenaed and generally used in ways that won't benefit you.   
 
-You have the following choices when considering this issue, in order of privacy protection level:
+Key mitigation methods:
+1. Use local-only setups by running LLM inference on your hardware
+2. Use privacy proxies that mix your requests with other users when using cloud providers
+3. Remove PII (personally identifiable information) from your queries using services with built-in scrubbing tools
+4. Separate identity from usage by using burner emails, VPNs, and anonymous payment methods
+
+You have the following choices when considering the above, in order of privacy protection level:
 
 | Strategy | Tools | Tradeoffs | Complexity | Examples | 
 | :--- | :--- | :--- | :--- | :--- | 
@@ -24,7 +30,7 @@ You have the following choices when considering this issue, in order of privacy 
 | #4 Web services | Privacy-first open source model inference and frontier LLM proxy packaged as subscription service | Trust need shifts to service provider<br>Open source model performance gap vs. frontier LLMs<br>Unfavorable pricing schemes |Low | Kagi Assistant, Brave Leo
 | #5 Direct SOTA| Frontier lab service use via Web or API | Personal details shared = Provider owns data with PII attached |Low| Chatgpt.com, Gemini app
 
-If you are reading this, you are likely not comfortable with the Direct route (Option 5). You shouldn't be. Leading providers like Anthropic, OpenAI and Google might promise to not train models on your data, but that does not stop them from changing their policies or reusing collected information in other ways (see [the Big Rug](https://x.com/goodalexander/status/1955578905706033651) theory).
+If you are reading this, you are likely not comfortable with the Direct route (Option 5). You shouldn't be. Leading providers like Anthropic, OpenAI and Google might promise to not train models on your data, but that does not stop them from changing their policies or reusing collected information in other ways (see [the Big Rug](https://x.com/goodalexander/status/1955578905706033651) theory). Further, they actively discourage or block anonymous signup methods.
 
 Where you end up between Options 1-4 depends on your workflows, needs and privacy expectations. Options can be mixed to mitigate some drawbacks per choice, which in turn increases complexity of your setup.
 
@@ -137,6 +143,7 @@ Frontier models (latest OpenAI/Claude releases) often lag behind official launch
 - [ ] Add explainer on TEE verfication 
 - [ ] Add trust verification criteria explainer (e.g. routers section ranking)
 - [ ] Add mobile apps
+- [ ] Add PII scrubbing options
 - [ ] Add local-first agent tools
 - [ ] Add local-first coding tools
 
